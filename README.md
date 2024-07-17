@@ -1,4 +1,4 @@
 # Starbucks-Landing-Page-Website
 Live preview 
-click here : https://codeminamo.github.io/Starbucks-Landing-Page-Website/
+click here : https://dipu2004.github.io/Starbucks-Landing-Page/
 # Starbucks-Landing-Page
